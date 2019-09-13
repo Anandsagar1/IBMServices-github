@@ -50,15 +50,15 @@
 - title: Logo
   pages:
     - title: Downloads
-      path: /Logo/Downloads
+      path: /logo
     - title: Using the logo
-      path: /Logo/Using-the-logo
+      path: /logo
     - title: Wordmarks
-      path: /Logo/Wordmarks
+      path: /logo
     - title: Wordmark placement
-      path: /Logo/Wordmark-placement
+      path: /logo
     - title: Misuse
-      path: /Logo/Misuse
+      path: /logo
 - title: Color
   pages:
     - title: Downloads
