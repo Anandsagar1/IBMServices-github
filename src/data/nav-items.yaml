@@ -50,31 +50,31 @@
 - title: Logo
   pages:
     - title: Downloads
-      path: /logo
+      path: /logo/#downloads
     - title: Using the logo
-      path: /logo
+      path: /logo/#using-the-logo
     - title: Wordmarks
-      path: /logo
+      path: /logo/#wordmarks
     - title: Wordmark placement
-      path: /logo
+      path: /logo/#wordmark-placement
     - title: Misuse
-      path: /logo
+      path: /logo/#misuse
 - title: Color
   pages:
     - title: Downloads
-      path: /Color/Downloads
+      path: /color/#downloads
     - title: Using Color
-      path: /Color/Using-Color
+      path: /color/#using-Color
     - title: Color palette
-      path: /Color/Color-palette
+      path: /color/#color-palette
     - title: Color combinations
-      path: /Color/Color-combinations
+      path: /color/#color-combinations
     - title: Gradients
-      path: /Color/Gradients
+      path: /color/#gradients
     - title: Application
-      path: /Color/Application
+      path: /color/#application
     - title: Misuse
-      path: /Color/Misuse
+      path: /color/#misuse
 - title: Typography
   pages:
     - title: Downloads
