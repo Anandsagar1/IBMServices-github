@@ -78,17 +78,17 @@
 - title: Typography
   pages:
     - title: Downloads
-      path: /Typography/Downloads
+      path: /typography/#downloads
     - title: Typeface
-      path: /Typography/Typeface
+      path: /typography/#typeface
     - title: Type hierarchy
-      path: /Typography/Type-hierarchy
+      path: /typography/#type-hierarchy
     - title: Type color
-      path: /Typography/Type-color
+      path: /typography/#type-color
     - title: Type pairing
-      path: /Typography/Type-pairing
+      path: /typography/#type-pairing
     - title: Misuse
-      path: /Typography/Misuse
+      path: /typography/#misuse
 - title: Graphics
   pages:
     - title: Downloads
